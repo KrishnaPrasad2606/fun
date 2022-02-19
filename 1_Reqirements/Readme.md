@@ -17,3 +17,9 @@ The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a
 *Paper covers Rock, so Paper wins
 
 *If players choose the same weapon, neither win and the game is played again
+
+|------------------------------|
+| FIRST HEADER | SECOND HEADER|
+|--------------|--------------|
+| CONTENT CELL |   MASD       |
+-------------------------------
